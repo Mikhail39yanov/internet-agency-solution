@@ -6,4 +6,3 @@
 
 > [WAKATIME](https://wakatime.com/@4762c287-47a9-4282-b1c8-a3149ffe73d8/projects/idgcofbejl?start=2023-02-01&end=2023-02-07)
 
-[![Mikhail_Yanov wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail_Yanov)](https://github.com/anuraghazra/github-readme-stats)
